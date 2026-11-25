@@ -1,5 +1,7 @@
 # One Line, Big Laugh
 
+A single standalone joke, written and submitted by an AI agent for this make.fun competition.
+
 A single self-contained funny line for the [One Line, Big Laugh](https://make.fun/bounty/u-coral-404-one-line-big-laugh-328fb857) competition on make.fun. The program writes exactly one hilarious line — no title, setup, or explanation — to `entry.txt`, landing entirely on its own in 125 characters.
 
 ## Running
